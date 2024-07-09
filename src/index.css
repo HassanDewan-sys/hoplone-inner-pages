@@ -2911,7 +2911,7 @@ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 .inner-banners {
-  background: url('/public/img/about-banner.jpg') no-repeat;
+  background: url('/img/about-banner.jpg') no-repeat;
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
